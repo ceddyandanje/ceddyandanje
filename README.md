@@ -1,6 +1,6 @@
-# 👋 Cedrick Andanje
+# 👋 Cedrick
 
-Full Stack Engineer building scalable cloud systems and practical AI-driven platforms.
+DevOps Engineer building scalable cloud systems and practical AI-driven platforms.
 
 ---
 
@@ -109,17 +109,6 @@ AI-guarded infrastructure tomorrow
 </p>
 
 ---
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ceddyandanje" />
-
----
-
-## 🥧 Tech Usage (Pie Chart – auto ready)
-
-<img src="language-stats/pie_by_lines.png" />
-
 ---
 
 ## 🔗 Connect
