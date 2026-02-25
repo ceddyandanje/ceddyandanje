@@ -55,13 +55,6 @@
 * Pharmaceutical AI Platform (in progress)
 
 ---
-
-## 📊 GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ceddyandanje\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceddyandanje\&layout=compact)
-
 ---
 - 📄 Know about my experiences [https://www.linkedin.com/in/cedrick-a-a29ab2300/](https://www.linkedin.com/in/cedrick-a-a29ab2300/)
 
