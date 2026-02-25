@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cedrick
 
-🚀 Full Stack Engineer building cloud + AI-driven systems
+🚀 DevOps Engineer building cloud + AI-driven systems
 
 ---
 
@@ -87,7 +87,8 @@ Designing AI-guarded infrastructure for tomorrow
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="32" width="32" />
   </a>
 </p>
-
+<br>
+<br>
 <!-- Tech stack (grouped, consistent sizing, wrapped nicely) -->
 <h3 align="left">Languages & Tools</h3>
 
