@@ -157,9 +157,3 @@ Designing AI-guarded infrastructure for tomorrow
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="44" height="44"/></a>
 </p>
 
-<!-- Stats (clean layout: no left/center conflicts) -->
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ceddyandanje&show_icons=true&locale=en" alt="ceddyandanje stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceddyandanje&show_icons=true&locale=en&layout=compact" alt="top languages" height="165"/>
-</p>
