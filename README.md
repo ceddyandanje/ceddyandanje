@@ -1,4 +1,4 @@
-# 👋 Cedrick
+# 👋 Cedrick A.
 
 DevOps Engineer building scalable cloud systems and practical AI-driven platforms.
 
@@ -101,15 +101,6 @@ AI-guarded infrastructure tomorrow
 
 ---
 
-## 📊 GitHub Stats (Auto-updating)
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ceddyandanje&show_icons=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceddyandanje&layout=compact&cache_seconds=1800" height="165" />
-</p>
-
----
----
 
 ## 🔗 Connect
 
